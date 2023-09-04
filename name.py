@@ -1,4 +1,3 @@
-# FirstCode
 name = input("Enter your name: ")
 
 if name.lower() == "gobinath":
