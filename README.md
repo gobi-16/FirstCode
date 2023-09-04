@@ -1,2 +1,2 @@
 # FirstCode
-my first code in vs code
+no code is here dont waste your time
